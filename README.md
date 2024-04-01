@@ -1,4 +1,4 @@
-# Hangfire.AspDotNetCoreMVC
+# Testing Hangfire in Asp.net mvc
 
 # Packages
 1 => Hangfire.Core
@@ -11,6 +11,10 @@
 # Reference Links
 https://docs.hangfire.io/
 
-Hangfire Basic Authentication
+#Hangfire Basic Authentication
 https://stackoverflow.com/questions/74819914/hang-fire-basic-authentication-not-working
-	
+
+# Using SeriLog
+https://serilog.net/
+
+
